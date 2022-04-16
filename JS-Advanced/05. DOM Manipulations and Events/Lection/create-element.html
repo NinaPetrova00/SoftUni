@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Movie List</h1>
+
+    <ul id="movie-list">
+        <li>The Matrix</li>
+    </ul>
+
+    <script>
+        // Create new element
+        let movieLiElement = document.createElement('li'); // this is tag name 
+        movieLiElement.textContent = 'Man of steel';
+
+        // Append child to the back
+        let ulElement = document.getElementById('movie-list');
+        ulElement.appendChild(movieLiElement);
+
+        // Clone/copy element
+        let copyLiElement = movieLiElement.cloneNode(true);
+
+        // Change only cloned element value: 
+        copyLiElement.textContent += ' II';
+
+        // Append child in the beginning
+        ulElement.prepend(copyLiElement);
+    </script>
+</body>
+
+</html>

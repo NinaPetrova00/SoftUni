@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        li {
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>DOM events | Movie-List</h1>
+
+    <ul id="movie-list">
+        <li>The Matrix</li>
+        <li>Cruella</li>
+        <li>Chronics of Narnia</li>
+        <li>Man of steel</li>
+        <li>Taken</li>
+    </ul>
+
+    <a href="/" id="link">LINK</a>
+
+    <script>
+        let movieElements = document.getElementById('movie-list');
+
+        //Text delegation
+        movieElements.addEventListener('click', (e) => {
+            console.log('Clicked element:');
+            console.log(e.target);
+
+            console.log('Event attached element:');
+            console.log(e.currentTarget);
+
+            //  console.log(e.target.tagName);
+            if (e.target.tagName == 'LI') {
+                e.target.style.textDecoration = 'line-through';
+            }
+        });
+
+        // Second example
+        let linkElement = document.getElementById('link');
+        linkElement.addEventListener('click', (e) => {
+            e.preventDefault();
+            console.log('Click');
+        });
+    </script>
+</body>
+
+</html>

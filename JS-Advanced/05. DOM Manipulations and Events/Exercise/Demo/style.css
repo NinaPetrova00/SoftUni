@@ -1,0 +1,9 @@
+div {
+    /*display: inline-block;*/
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: blueviolet;
+}

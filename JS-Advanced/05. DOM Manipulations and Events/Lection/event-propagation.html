@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="parent" style="padding:40px;background-color: blueviolet;">
+        <h2>Parent</h2>
+
+        <div id="child" style="padding:40px;background-color:blanchedalmond;">
+            <h3>Child</h3>
+        </div>
+    </div>
+
+    <script>
+        let parentElement = document.getElementById('parent');
+        let childElement = document.getElementById('child');
+
+        parentElement.addEventListener('click', () => {
+            e.stopPropagation();
+            console.log('Parent');
+        }, true); // set useCapture/capture phase to true
+
+        childElement.addEventListener('click', () => {
+            console.log('Child');
+        });
+    </script>
+</body>
+
+</html>
