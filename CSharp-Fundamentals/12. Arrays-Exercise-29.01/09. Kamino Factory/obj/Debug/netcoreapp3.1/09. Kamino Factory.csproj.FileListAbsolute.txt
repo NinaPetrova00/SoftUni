@@ -1,4 +1,0 @@
-C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\12. Arrays-Exercise-29.01\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csprojAssemblyReference.cache
-C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\12. Arrays-Exercise-29.01\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfoInputs.cache
-C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\12. Arrays-Exercise-29.01\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.AssemblyInfo.cs
-C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\12. Arrays-Exercise-29.01\09. Kamino Factory\obj\Debug\netcoreapp3.1\09. Kamino Factory.csproj.CoreCompileInputs.cache
