@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+nav ul li{
+    display: inline-block;
+   
+}
+nav a{
+    text-decoration: none;
+    font-family: "Helvetica",sans-serif;
+    color:palevioletred;
+    margin-right: 15px;
+}
+
+nav{
+background:papayawhip;
+padding: 10px;
+}
+
+button{
+    border:1px solid plum;
+    background: purple;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 5px 20px;
+    color:plum;
+    font-weight: bold;
+}
