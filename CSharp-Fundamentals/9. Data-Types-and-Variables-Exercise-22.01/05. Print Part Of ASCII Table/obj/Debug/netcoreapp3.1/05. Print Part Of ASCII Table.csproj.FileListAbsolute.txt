@@ -1,0 +1,12 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\05. Print Part Of ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part Of ASCII Table.genruntimeconfig.cache

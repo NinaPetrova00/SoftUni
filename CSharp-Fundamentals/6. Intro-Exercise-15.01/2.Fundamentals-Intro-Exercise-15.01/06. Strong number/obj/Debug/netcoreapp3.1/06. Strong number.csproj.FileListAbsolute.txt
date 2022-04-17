@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\bin\Debug\netcoreapp3.1\06. Strong number.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\06. Strong number\obj\Debug\netcoreapp3.1\06. Strong number.genruntimeconfig.cache

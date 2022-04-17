@@ -1,0 +1,16 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\bin\Debug\net5.0\02.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\bin\Debug\net5.0\02.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\bin\Debug\net5.0\02.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\bin\Debug\net5.0\02.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\bin\Debug\net5.0\02.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\bin\Debug\net5.0\ref\02.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\bin\Debug\net5.0\02.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\obj\Debug\net5.0\02.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\obj\Debug\net5.0\02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\obj\Debug\net5.0\02.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\obj\Debug\net5.0\02.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\obj\Debug\net5.0\02.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\obj\Debug\net5.0\02.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\obj\Debug\net5.0\ref\02.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\obj\Debug\net5.0\02.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Retake Mid exam\02\obj\Debug\net5.0\02.genruntimeconfig.cache

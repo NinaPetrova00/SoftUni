@@ -1,0 +1,12 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\2.Fundamentals-Intro-Exercise-15.01\2.Fundamentals-Intro-Exercise-15.01\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache

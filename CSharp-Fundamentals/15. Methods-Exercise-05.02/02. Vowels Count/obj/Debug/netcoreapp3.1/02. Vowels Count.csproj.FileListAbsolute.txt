@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.genruntimeconfig.cache

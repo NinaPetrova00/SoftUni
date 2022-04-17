@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\21. Objects-and-Classes-Exercise-19.02\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\bin\Debug\netcoreapp3.1\01. Smallest of Three Numbers.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\Methods-Exercise-05.02\01. Smallest of Three Numbers\obj\Debug\netcoreapp3.1\01. Smallest of Three Numbers.genruntimeconfig.cache

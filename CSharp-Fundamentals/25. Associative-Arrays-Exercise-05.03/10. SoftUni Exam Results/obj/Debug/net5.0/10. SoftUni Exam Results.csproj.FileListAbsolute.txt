@@ -1,0 +1,16 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\bin\Debug\net5.0\ref\10. SoftUni Exam Results.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\bin\Debug\net5.0\10. SoftUni Exam Results.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\obj\Debug\net5.0\ref\10. SoftUni Exam Results.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\10. SoftUni Exam Results\obj\Debug\net5.0\10. SoftUni Exam Results.genruntimeconfig.cache

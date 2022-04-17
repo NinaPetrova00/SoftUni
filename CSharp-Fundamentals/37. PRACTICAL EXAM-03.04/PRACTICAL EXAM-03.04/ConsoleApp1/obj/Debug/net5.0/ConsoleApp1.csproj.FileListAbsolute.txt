@@ -1,0 +1,16 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

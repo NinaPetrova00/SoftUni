@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\bin\Debug\netcoreapp3.1\03. Problem.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.genruntimeconfig.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\23. Mid exam-27.02\03. Problem\obj\Debug\netcoreapp3.1\03. Problem.csprojAssemblyReference.cache

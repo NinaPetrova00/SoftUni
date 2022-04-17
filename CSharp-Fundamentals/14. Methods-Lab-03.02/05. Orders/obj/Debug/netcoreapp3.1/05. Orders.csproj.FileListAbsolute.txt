@@ -1,0 +1,12 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache

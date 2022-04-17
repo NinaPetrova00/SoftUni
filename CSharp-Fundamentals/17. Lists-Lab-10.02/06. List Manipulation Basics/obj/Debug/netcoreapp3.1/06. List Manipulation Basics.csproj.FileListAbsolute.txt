@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\17. Lists-Lab-10.02\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.genruntimeconfig.cache

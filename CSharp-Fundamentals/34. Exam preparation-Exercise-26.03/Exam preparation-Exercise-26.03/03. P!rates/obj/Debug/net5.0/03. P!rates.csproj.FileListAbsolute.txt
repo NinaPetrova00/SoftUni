@@ -1,0 +1,16 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\bin\Debug\net5.0\03. P!rates.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\bin\Debug\net5.0\03. P!rates.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\bin\Debug\net5.0\03. P!rates.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\bin\Debug\net5.0\03. P!rates.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\bin\Debug\net5.0\03. P!rates.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\bin\Debug\net5.0\ref\03. P!rates.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\bin\Debug\net5.0\03. P!rates.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\obj\Debug\net5.0\03. P!rates.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\obj\Debug\net5.0\03. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\obj\Debug\net5.0\03. P!rates.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\obj\Debug\net5.0\03. P!rates.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\obj\Debug\net5.0\03. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\obj\Debug\net5.0\03. P!rates.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\obj\Debug\net5.0\ref\03. P!rates.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\obj\Debug\net5.0\03. P!rates.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\03. P!rates\obj\Debug\net5.0\03. P!rates.genruntimeconfig.cache

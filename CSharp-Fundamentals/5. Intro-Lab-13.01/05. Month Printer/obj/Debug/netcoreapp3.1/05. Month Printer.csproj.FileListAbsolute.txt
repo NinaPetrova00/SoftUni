@@ -1,0 +1,12 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.genruntimeconfig.cache

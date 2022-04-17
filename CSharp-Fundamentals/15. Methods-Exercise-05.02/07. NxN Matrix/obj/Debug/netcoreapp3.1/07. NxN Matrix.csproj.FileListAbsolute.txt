@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\15. Methods-Exercise-05.02\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.genruntimeconfig.cache

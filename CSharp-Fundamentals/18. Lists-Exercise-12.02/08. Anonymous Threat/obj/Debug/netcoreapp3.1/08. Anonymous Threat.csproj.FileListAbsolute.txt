@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\18. Lists-Exercise-12.02\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.genruntimeconfig.cache

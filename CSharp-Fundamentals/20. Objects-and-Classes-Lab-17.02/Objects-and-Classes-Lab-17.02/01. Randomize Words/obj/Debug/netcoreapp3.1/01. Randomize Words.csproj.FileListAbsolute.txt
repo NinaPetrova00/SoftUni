@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\bin\Debug\netcoreapp3.1\01. Randomize Words.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\20. Objects-and-Classes-Lab-17.02\Objects-and-Classes-Lab-17.02\01. Randomize Words\obj\Debug\netcoreapp3.1\01. Randomize Words.genruntimeconfig.cache

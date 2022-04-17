@@ -1,0 +1,12 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\bin\Debug\netcoreapp3.1\05. Sum Even Numbers.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\05. Sum Even Numbers\obj\Debug\netcoreapp3.1\05. Sum Even Numbers.genruntimeconfig.cache

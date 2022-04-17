@@ -1,0 +1,12 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.genruntimeconfig.cache

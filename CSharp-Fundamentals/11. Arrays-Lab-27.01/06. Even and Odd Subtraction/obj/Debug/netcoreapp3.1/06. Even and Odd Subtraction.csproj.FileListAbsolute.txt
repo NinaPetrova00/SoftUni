@@ -1,0 +1,12 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\11. Arrays-Lab-27.01\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.genruntimeconfig.cache

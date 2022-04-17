@@ -1,0 +1,16 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\bin\Debug\net5.0\06. Courses.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\bin\Debug\net5.0\06. Courses.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\bin\Debug\net5.0\06. Courses.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\bin\Debug\net5.0\06. Courses.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\bin\Debug\net5.0\06. Courses.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\bin\Debug\net5.0\ref\06. Courses.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\bin\Debug\net5.0\06. Courses.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\obj\Debug\net5.0\06. Courses.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\obj\Debug\net5.0\06. Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\obj\Debug\net5.0\06. Courses.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\obj\Debug\net5.0\06. Courses.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\obj\Debug\net5.0\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\obj\Debug\net5.0\06. Courses.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\obj\Debug\net5.0\ref\06. Courses.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\obj\Debug\net5.0\06. Courses.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\25. Associative-Arrays-Exercise-05.03\Associative-Arrays-Exercise-05.03\06. Courses\obj\Debug\net5.0\06. Courses.genruntimeconfig.cache

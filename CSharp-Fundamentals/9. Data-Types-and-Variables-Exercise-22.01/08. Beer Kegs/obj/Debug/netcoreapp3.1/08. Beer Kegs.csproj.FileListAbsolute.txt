@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\9. Data-Types-and-Variables-Exercise-22.01\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.genruntimeconfig.cache

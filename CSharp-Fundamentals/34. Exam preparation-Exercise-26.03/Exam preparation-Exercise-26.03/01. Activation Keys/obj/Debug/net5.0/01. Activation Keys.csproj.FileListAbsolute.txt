@@ -1,0 +1,16 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\bin\Debug\net5.0\ref\01. Activation Keys.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\obj\Debug\net5.0\ref\01. Activation Keys.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\34. Exam preparation-Exercise-26.03\Exam preparation-Exercise-26.03\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\bin\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\14. Methods-Lab-03.02\10. Multiply Evens by Odds\obj\Debug\netcoreapp3.1\10. Multiply Evens by Odds.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\bin\Debug\netcoreapp3.1\2.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\bin\Debug\netcoreapp3.1\2.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\bin\Debug\netcoreapp3.1\2.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\bin\Debug\netcoreapp3.1\2.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\obj\Debug\netcoreapp3.1\2.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\obj\Debug\netcoreapp3.1\2.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\obj\Debug\netcoreapp3.1\2.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\obj\Debug\netcoreapp3.1\2.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\Mid exam-06.03\2\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache

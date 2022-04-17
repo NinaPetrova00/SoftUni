@@ -1,0 +1,12 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\bin\Debug\netcoreapp3.1\11. Multiplication Table 2.0.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\01. CSharp-Fundamentals-Intro-Lab 13.01\11. Multiplication Table 2.0\obj\Debug\netcoreapp3.1\11. Multiplication Table 2.0.genruntimeconfig.cache

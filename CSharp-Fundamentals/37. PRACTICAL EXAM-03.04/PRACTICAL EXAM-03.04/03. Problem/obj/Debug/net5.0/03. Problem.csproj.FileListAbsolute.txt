@@ -1,0 +1,16 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\bin\Debug\net5.0\03. Problem.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\bin\Debug\net5.0\03. Problem.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\bin\Debug\net5.0\03. Problem.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\bin\Debug\net5.0\03. Problem.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\bin\Debug\net5.0\03. Problem.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\bin\Debug\net5.0\ref\03. Problem.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\bin\Debug\net5.0\03. Problem.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\obj\Debug\net5.0\03. Problem.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\obj\Debug\net5.0\03. Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\obj\Debug\net5.0\03. Problem.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\obj\Debug\net5.0\03. Problem.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\obj\Debug\net5.0\03. Problem.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\obj\Debug\net5.0\03. Problem.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\obj\Debug\net5.0\ref\03. Problem.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\obj\Debug\net5.0\03. Problem.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\37. PRACTICAL EXAM-03.04\PRACTICAL EXAM-03.04\03. Problem\obj\Debug\net5.0\03. Problem.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.exe
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.deps.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.runtimeconfig.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.runtimeconfig.dev.json
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\bin\Debug\net5.0\ref\01. The Imitation Game.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.csprojAssemblyReference.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.AssemblyInfoInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.AssemblyInfo.cs
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\obj\Debug\net5.0\ref\01. The Imitation Game.dll
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.pdb
+C:\Users\Nina\Desktop\C# SoftUni\C# Fundamentals - януари 2021\33. Exam preparation-Lab-24.03\Exam preparation-Lab-24.03\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.genruntimeconfig.cache
