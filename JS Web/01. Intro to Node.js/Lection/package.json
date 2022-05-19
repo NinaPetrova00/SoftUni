@@ -1,0 +1,12 @@
+{
+    "name": "lection",
+    "version": "1.0.0",
+    "main": "call-stack.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
