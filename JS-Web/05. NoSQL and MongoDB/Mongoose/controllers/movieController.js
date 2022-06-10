@@ -12,13 +12,6 @@ router.get('/', async(req, res) => {
     //   res.render('movies', { movies: [] });
 });
 
-router.get('/:movieId', async(req, res) => {
-    // let movie = await Movie.findOne({ _id: req.params.movieId }).lean();
-    let movie = await Movie.findById(req.params.movieId).lean();
-
-    res.render('movieDetails', { movie });
-});
-
 router.get('/create', (req, res) => {
     res.render('createMovie');
 });
@@ -35,6 +28,13 @@ router.post('/create', async(req, res) => {
 
     console.log(savedMovie);
     res.redirect('/movies');
+});
+
+router.get('/:movieId', async(req, res) => {
+    // let movie = await Movie.findOne({ _id: req.params.movieId }).lean();
+    let movie = await Movie.findById(req.params.movieId).lean();
+
+    res.render('movieDetails', { movie });
 });
 
 module.exports = router;
