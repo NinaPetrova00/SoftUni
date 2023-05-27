@@ -1,0 +1,25 @@
+body{
+    display: flex;
+}
+
+li{
+    display: flex;
+    border: 8px solid black;
+    width: 30%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+   flex-wrap: wrap;
+}
+
+img{
+    width: 80%;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    gap:25px;
+}

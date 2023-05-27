@@ -1,0 +1,29 @@
+body{
+    box-sizing: border-box;
+}
+
+.container, .week, .notes{
+    display: flex;
+    text-align: center;
+   
+}
+
+.container{
+    max-width: 65vw;
+}
+
+span{
+    border: 1px solid black;
+}
+
+.notes{
+    flex-direction: column;
+}
+
+/* .week__workweek{
+
+} */
+
+.week .week__days{
+flex-direction: column;
+}
