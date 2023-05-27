@@ -1,0 +1,11 @@
+.main .main-item > .text{
+    color:pink;
+}
+
+div ul li span{
+    color:blue;
+}
+
+.section ul .main-item .text{
+    color:pink;
+}
