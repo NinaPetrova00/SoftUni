@@ -1,0 +1,12 @@
+.mainTable .frozen {
+  background-color: #a25094;
+  position: sticky;
+  right: 0px;
+}
+
+.subTable .frozen {
+  background-color: #daabca;
+  position: sticky;
+  right: 0px;
+}
+
