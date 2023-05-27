@@ -1,0 +1,23 @@
+body{
+    font-family: Helvetica, sans-serif;
+}
+
+header{
+    margin-top: 30px;
+}
+
+h1{
+    width: 70%;
+    display: inline;
+    margin-right: 50px;
+}
+nav{
+    width: 30%;
+display: inline;
+    vertical-align:top;
+}
+
+a{
+    color:green;
+    text-decoration: none;
+}
