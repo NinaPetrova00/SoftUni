@@ -1,0 +1,25 @@
+ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+}
+
+.logo-ctr>img{
+    width: 60px;
+    height: 60px;
+}
+
+li{
+    list-style-type: none;
+    border:1px solid palevioletred;
+    width: 60px;
+    text-align: center;
+    padding: 5px 8px;
+}
+
+@media screen and (max-width:480px){
+    li{
+        width: 100%;
+        color:palevioletred;
+    }
+}

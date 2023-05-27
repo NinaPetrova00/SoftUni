@@ -1,0 +1,26 @@
+form{
+    border:1px solid salmon;
+    width: 40%;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+}
+
+input{
+    width: 70%;
+    padding-left: 25px;
+    margin: auto;
+    margin-bottom: 1.2em;
+}
+
+i{
+    position: relative;
+    left:22px;
+    top:2px;
+}
+
+label{
+    margin-left: 30%;
+}

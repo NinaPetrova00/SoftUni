@@ -1,0 +1,44 @@
+
+body{
+    font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+nav{
+ border:1px solid#e3e3e3;
+ font-size: 14px;
+ width: 200px;
+ line-height: 20px;
+ background-color: #f5f5f5;
+}
+
+.nav-item {
+    list-style-type: none;
+    margin:10px 0;
+}
+
+.nav-item a{
+    color:#c83025;
+    text-decoration: none;
+}
+
+.buttons-ctr .single-button{
+    color:whitesmoke;
+    padding: 6px 8px;
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+.checkout{
+    background-color:#83a94c;
+}
+
+.info{
+    background-color: #008ed0;
+}
+
+.delete{
+    background-color: #cc4036;
+}
+
+i{
+    font-size: 15px;
+    margin-right: 6px;
+}
