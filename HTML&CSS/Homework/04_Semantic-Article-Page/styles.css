@@ -1,0 +1,29 @@
+body{
+    background-color:  #e4e978;
+    width: 700px;
+}
+
+body > article{
+    background-color: #f2f4c0;
+    border: 1px solid #b2ad7d;
+    margin:15px 10px;
+    padding: 5px 15px;
+}
+
+section{
+    font-style: italic;
+    color:#5c6e91;
+    background-color: #f2f4c0;
+    border: 1px solid #b2ad7d;
+    margin:15px 10px;
+}
+
+section > article{
+    font-style: italic;
+    color:#5c6e91;
+    background-color: #f2f4c0;
+    margin:15px 10px;
+}
+section h1{
+    margin:15px 10px;
+}
