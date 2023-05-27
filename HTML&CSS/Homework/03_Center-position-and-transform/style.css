@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    border-radius:8px;
+    margin-top: 50px;
+}
+
+.content .btn{
+  background-color:  rgb(0, 153, 0);
+  border-radius: 10px;
+
+}
+.content .btn a{
+    color:#fff;
+    text-decoration: none;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em/1.2;
+}
+
+.img img{
+    top: 82px;
+    left: 0px;
+    right: 0px;
+}

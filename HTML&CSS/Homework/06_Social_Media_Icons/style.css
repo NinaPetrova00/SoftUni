@@ -1,0 +1,21 @@
+ul{
+  position: absolute;
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+    font-size: 40px;
+    width: 70px;
+
+}
+
+/* a{
+    background-color: rgba(160, 149, 149, 0.737);
+    border-radius: 50%;
+    text-align: center;
+} */
+
+ul li a .fa-brands{
+    width: 500px;
+}

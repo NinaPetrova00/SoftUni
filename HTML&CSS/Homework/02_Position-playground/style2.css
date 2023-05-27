@@ -1,0 +1,37 @@
+section{
+    height: 50vh;
+}
+
+section:first-child{
+    background-color: palevioletred;
+}
+
+section:first-child img{
+    width: 300px;
+}
+
+section:last-child{
+    background-color: lightpink;
+}
+
+section:last-child img{
+    width: 220px;
+}
+
+section{
+    position: relative;
+}
+
+section .container{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+
+section .container .fa-solid{
+    position: absolute;
+    color:white;
+    right: 6px;
+    bottom: 12px;
+}
